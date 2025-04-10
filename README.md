@@ -1,2 +1,11 @@
-# githubworkflow_dockerspring
-An example project of GitHub Workflow to do CI/CD development on a Docker-Spring project
+# GitHubWorkflow_DockerSpring
+A project to demonstrate CI/CD on GitHub of a Docker-Spring project
+##### Created Toothless7788
+
+
+## Note
+- 
+
+
+## Source
+- [https://docs.docker.com/guides/java/configure-ci-cd/](https://docs.docker.com/guides/java/configure-ci-cd/)
